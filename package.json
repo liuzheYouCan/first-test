@@ -1,0 +1,19 @@
+{
+  "name": "fistnodemouble",
+  "version": "1.0.0",
+  "description": "first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzheYouCan/first-test.git"
+  },
+  "author": "lz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzheYouCan/first-test/issues"
+  },
+  "homepage": "https://github.com/liuzheYouCan/first-test#readme"
+}
